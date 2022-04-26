@@ -1,11 +1,7 @@
-### Hi there 👋
 
-<!--
-**Nattzor/Nattzor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---> <h1 align="center">Hi this is Nattzor</h1>
 
-<h1 align="center">Hi this is Nattzor</h1>
-
-- :books: I’m currently learning **Node.js** and **Express** at IT-högskolan.
+:books: I’m currently learning **Node.js** and **Express** at IT-högskolan.
 <br>
 
 ## Skills 

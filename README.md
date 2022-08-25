@@ -5,11 +5,10 @@
 <br>
 
 ## Skills 
-* 💻 JS / Ruby / Ruby on Rails
+* 💻 JS /
 * 👨‍🎨 HTML / CSS / SASS / Figma
 * 📱 React Native / Vue
 * :minidisc: NodeJS / Express
-* ⚙️ Cypress / RSpec
 <br>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nattzor&show_icons=true&locale=en&layout=compact" alt="Nattzor" /></p>
 <br>

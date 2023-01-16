@@ -6,9 +6,10 @@
 
 ## Skills 
 * 💻 JS / Typescript
-* 👨‍🎨 HTML / CSS / SASS / Figma
+* 👨‍🎨 HTML / CSS / SASS / Bootstrap / Figma
 * 📱 React Native / Vue
 * :minidisc: NodeJS / Express
+* Azure DevOps
 <br>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nattzor&show_icons=true&locale=en&layout=compact" alt="Nattzor" /></p>
 <br>

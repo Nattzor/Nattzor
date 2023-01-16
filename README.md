@@ -5,7 +5,7 @@
 <br>
 
 ## Skills 
-* 💻 JS /
+* 💻 JS / Typescript
 * 👨‍🎨 HTML / CSS / SASS / Figma
 * 📱 React Native / Vue
 * :minidisc: NodeJS / Express
